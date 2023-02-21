@@ -1,0 +1,57 @@
+.site-wrapper .stepper li.completed a .circle {
+	background-color: #388e3c !important;
+}
+
+#accordionEx .card .md-form-magin{
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.table-borderless .aLink{
+	color: #1976d2 !important;
+	margin-left: -50%;
+}
+
+#bodyModalRuta .btnConfirm{
+	color: green;
+}
+
+#bodyModalRuta .btnCancela{
+	color: red;
+}
+
+.site-wrapper .input-group [type="checkbox"]:checked + label:before {
+	top: -20px;
+}
+
+.site-wrapper .input-group [type="checkbox"] + label:before {
+	top: -15px;	
+}
+
+#tableComisionesBody .comision.colorRed input{
+	color: red;
+}
+
+#tableComisionesBody .comision input{
+	text-align: end;
+    border: none;
+    background-color: transparent;
+}
+
+#tabPaso3_2 input {
+	text-align: end;
+    border: none;
+    background-color: transparent;
+}
+
+.site-wrapper .modal {
+    display: none;
+    height: 100%;
+    left: 0;
+    outline: 0;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1050;
+}
